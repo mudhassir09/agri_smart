@@ -1,6 +1,5 @@
-streamlit>=1.35.0
-google-generativeai>=0.7.0
-plotly>=5.20.0
-pandas>=2.0.0
-Pillow>=10.0.0
-requests>=2.31.0
+streamlit
+google-generativeai
+pandas
+numpy
+scikit-learn
